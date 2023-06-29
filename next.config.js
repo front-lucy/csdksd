@@ -9,4 +9,7 @@ const nextConfig = {
       : "",
 };
 
-module.exports = nextConfig;
+module.exports = {
+  basePath: "/csdksd",
+  assetPrefix: "/csdksd/",
+};
